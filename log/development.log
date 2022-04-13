@@ -1,0 +1,11 @@
+  [1m[35m (0.5ms)[0m  [1m[35mDROP DATABASE IF EXISTS "apartment_app_development"[0m
+  [1m[35m (0.4ms)[0m  [1m[35mDROP DATABASE IF EXISTS "apartment_app_test"[0m
+  [1m[35m (745.7ms)[0m  [1m[35mCREATE DATABASE "apartment_app_development" ENCODING = 'unicode'[0m
+  [1m[35m (261.6ms)[0m  [1m[35mCREATE DATABASE "apartment_app_test" ENCODING = 'unicode'[0m
+Started GET "/" for ::1 at 2022-04-13 13:47:34 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/learnacademy/.rvm/gems/ruby-3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 24.9ms | Allocations: 742)
+Completed 200 OK in 88ms (Views: 46.7ms | ActiveRecord: 0.0ms | Allocations: 7004)
+
+
